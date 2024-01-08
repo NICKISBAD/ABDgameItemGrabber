@@ -62,7 +62,7 @@ spawn(function()
         end
       end
     end
-  end
+  end)
 end)
 
 local Section2 = Tab:NewSection("Item TPer")
